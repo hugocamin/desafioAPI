@@ -368,6 +368,8 @@ if not centro_treinamento_out:
     )
 
 return centro_treinamento_out
+
+
 D) Configurações
 
 from typing import AsyncGenerator
